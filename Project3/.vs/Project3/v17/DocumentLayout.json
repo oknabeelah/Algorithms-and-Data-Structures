@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 3\\Project3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA17105-6E91-4E7D-A5C2-9EB17584E93D}|Project3.csproj|c:\\users\\admin\\desktop\\ads coursework-33030385\\problem 3\\project3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA17105-6E91-4E7D-A5C2-9EB17584E93D}|Project3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA17105-6E91-4E7D-A5C2-9EB17584E93D}|Project3.csproj|c:\\users\\admin\\desktop\\ads coursework-33030385\\problem 3\\project3\\unweightedalg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA17105-6E91-4E7D-A5C2-9EB17584E93D}|Project3.csproj|solutionrelative:unweightedalg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA17105-6E91-4E7D-A5C2-9EB17584E93D}|Project3.csproj|c:\\users\\admin\\desktop\\ads coursework-33030385\\problem 3\\project3\\weightedalg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA17105-6E91-4E7D-A5C2-9EB17584E93D}|Project3.csproj|solutionrelative:weightedalg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA17105-6E91-4E7D-A5C2-9EB17584E93D}|Project3.csproj|c:\\users\\admin\\desktop\\ads coursework-33030385\\problem 3\\project3\\road-euroroad.edges||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6EA17105-6E91-4E7D-A5C2-9EB17584E93D}|Project3.csproj|solutionrelative:road-euroroad.edges||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "road-euroroad.edges",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 3\\Project3\\road-euroroad.edges",
+              "RelativeDocumentMoniker": "road-euroroad.edges",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 3\\Project3\\road-euroroad.edges",
+              "RelativeToolTip": "road-euroroad.edges",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-12T20:54:33.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnweightedAlg.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 3\\Project3\\UnweightedAlg.cs",
+              "RelativeDocumentMoniker": "UnweightedAlg.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 3\\Project3\\UnweightedAlg.cs",
+              "RelativeToolTip": "UnweightedAlg.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAkwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:52:33.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeightedAlg.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 3\\Project3\\WeightedAlg.cs",
+              "RelativeDocumentMoniker": "WeightedAlg.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 3\\Project3\\WeightedAlg.cs",
+              "RelativeToolTip": "WeightedAlg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:52:12.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 3\\Project3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 3\\Project3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T14:36:27.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
