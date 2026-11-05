@@ -38,3 +38,5 @@ artifacts/
 .DS_Store
 Thumbs.db
 ehthumbs.db
+
+.fake
