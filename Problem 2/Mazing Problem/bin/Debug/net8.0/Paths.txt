@@ -1,0 +1,12 @@
+Total Unique Paths: 2
+Path 1: (0, 1) -> (1, 1) -> (2, 1) -> (2, 2)
+
+Next Path:
+
+Path 2: (0, 1) -> (1, 1) -> (2, 2)
+
+Next Path:
+
+
+Fastest Path:
+(0, 1) -> (1, 1) -> (2, 2)

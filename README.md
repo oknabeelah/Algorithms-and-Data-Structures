@@ -1,2 +1,6 @@
 # Algorithms-and-Data-Structures
-Notes and Assessment for ADS module (yr 2)
+
+Project 1 - Algorithmic complexity
+Project 2 - Mazing problem
+Project 3 - Social networks
+Project 4 - Binpacking problem (Hillclimbing)

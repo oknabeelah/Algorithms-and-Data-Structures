@@ -1,0 +1,38 @@
+C:\Users\Admin\OneDrive - Sheffield Hallam University\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\BINpACKingProblem.exe
+C:\Users\Admin\OneDrive - Sheffield Hallam University\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\BINpACKingProblem.deps.json
+C:\Users\Admin\OneDrive - Sheffield Hallam University\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\BINpACKingProblem.runtimeconfig.json
+C:\Users\Admin\OneDrive - Sheffield Hallam University\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\BINpACKingProblem.dll
+C:\Users\Admin\OneDrive - Sheffield Hallam University\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\BINpACKingProblem.pdb
+C:\Users\Admin\OneDrive - Sheffield Hallam University\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive - Sheffield Hallam University\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive - Sheffield Hallam University\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.AssemblyInfo.cs
+C:\Users\Admin\OneDrive - Sheffield Hallam University\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive - Sheffield Hallam University\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.dll
+C:\Users\Admin\OneDrive - Sheffield Hallam University\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\refint\BINpACKingProblem.dll
+C:\Users\Admin\OneDrive - Sheffield Hallam University\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.pdb
+C:\Users\Admin\OneDrive - Sheffield Hallam University\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.genruntimeconfig.cache
+C:\Users\Admin\OneDrive - Sheffield Hallam University\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\ref\BINpACKingProblem.dll
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\BINpACKingProblem.exe
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\BINpACKingProblem.deps.json
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\BINpACKingProblem.runtimeconfig.json
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\BINpACKingProblem.dll
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\BINpACKingProblem.pdb
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.dll
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\refint\BINpACKingProblem.dll
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.pdb
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\ref\BINpACKingProblem.dll
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKingProblem.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\Admin\Desktop\ADS Coursework-33030385\Problem 4\BinPackingProblem\BINpACKingProblem\BINpACKingProblem\obj\Debug\net8.0\BINpACKi.88D11607.Up2Date
