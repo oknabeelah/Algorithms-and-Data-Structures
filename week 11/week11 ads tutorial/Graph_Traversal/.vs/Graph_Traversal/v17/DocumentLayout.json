@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\c3030385\\OneDrive - Sheffield Hallam University\\Graph_Traversal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15A7B6-03C9-431A-99BD-899506E3852A}|Graph_Traversal\\Graph_Traversal.csproj|c:\\users\\c3030385\\onedrive - sheffield hallam university\\graph_traversal\\graph_traversal\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A15A7B6-03C9-431A-99BD-899506E3852A}|Graph_Traversal\\Graph_Traversal.csproj|solutionrelative:graph_traversal\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A15A7B6-03C9-431A-99BD-899506E3852A}|Graph_Traversal\\Graph_Traversal.csproj|c:\\users\\c3030385\\onedrive - sheffield hallam university\\graph_traversal\\graph_traversal\\edge_list1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3A15A7B6-03C9-431A-99BD-899506E3852A}|Graph_Traversal\\Graph_Traversal.csproj|solutionrelative:graph_traversal\\edge_list1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "edge_list1.txt",
+              "DocumentMoniker": "C:\\Users\\c3030385\\OneDrive - Sheffield Hallam University\\Graph_Traversal\\Graph_Traversal\\edge_list1.txt",
+              "RelativeDocumentMoniker": "Graph_Traversal\\edge_list1.txt",
+              "ToolTip": "C:\\Users\\c3030385\\OneDrive - Sheffield Hallam University\\Graph_Traversal\\Graph_Traversal\\edge_list1.txt",
+              "RelativeToolTip": "Graph_Traversal\\edge_list1.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-04T20:37:15.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\c3030385\\OneDrive - Sheffield Hallam University\\Graph_Traversal\\Graph_Traversal\\Graph.cs",
+              "RelativeDocumentMoniker": "Graph_Traversal\\Graph.cs",
+              "ToolTip": "C:\\Users\\c3030385\\OneDrive - Sheffield Hallam University\\Graph_Traversal\\Graph_Traversal\\Graph.cs",
+              "RelativeToolTip": "Graph_Traversal\\Graph.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T11:28:25.257Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
