@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 4\\BinPackingProblem\\BINpACKingProblem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB9F978-2388-49D8-AF7D-DE9B28B7DF59}|BINpACKingProblem\\BINpACKingProblem.csproj|c:\\users\\admin\\desktop\\ads coursework-33030385\\problem 4\\binpackingproblem\\binpackingproblem\\binpackingproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB9F978-2388-49D8-AF7D-DE9B28B7DF59}|BINpACKingProblem\\BINpACKingProblem.csproj|solutionrelative:binpackingproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB9F978-2388-49D8-AF7D-DE9B28B7DF59}|BINpACKingProblem\\BINpACKingProblem.csproj|c:\\users\\admin\\desktop\\ads coursework-33030385\\problem 4\\binpackingproblem\\binpackingproblem\\binpackingproblem\\binpacking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB9F978-2388-49D8-AF7D-DE9B28B7DF59}|BINpACKingProblem\\BINpACKingProblem.csproj|solutionrelative:binpackingproblem\\binpacking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB9F978-2388-49D8-AF7D-DE9B28B7DF59}|BINpACKingProblem\\BINpACKingProblem.csproj|c:\\users\\admin\\desktop\\ads coursework-33030385\\problem 4\\binpackingproblem\\binpackingproblem\\binpackingproblem\\readwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB9F978-2388-49D8-AF7D-DE9B28B7DF59}|BINpACKingProblem\\BINpACKingProblem.csproj|solutionrelative:binpackingproblem\\readwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BB9F978-2388-49D8-AF7D-DE9B28B7DF59}|BINpACKingProblem\\BINpACKingProblem.csproj|c:\\users\\admin\\desktop\\ads coursework-33030385\\problem 4\\binpackingproblem\\binpackingproblem\\binpackingproblem\\hillclimbing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BB9F978-2388-49D8-AF7D-DE9B28B7DF59}|BINpACKingProblem\\BINpACKingProblem.csproj|solutionrelative:binpackingproblem\\hillclimbing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 4\\BinPackingProblem\\BINpACKingProblem\\BINpACKingProblem\\Program.cs",
+              "RelativeDocumentMoniker": "BINpACKingProblem\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 4\\BinPackingProblem\\BINpACKingProblem\\BINpACKingProblem\\Program.cs",
+              "RelativeToolTip": "BINpACKingProblem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:24:53.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReadWrite.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 4\\BinPackingProblem\\BINpACKingProblem\\BINpACKingProblem\\ReadWrite.cs",
+              "RelativeDocumentMoniker": "BINpACKingProblem\\ReadWrite.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 4\\BinPackingProblem\\BINpACKingProblem\\BINpACKingProblem\\ReadWrite.cs",
+              "RelativeToolTip": "BINpACKingProblem\\ReadWrite.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T22:13:40.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinPacking.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 4\\BinPackingProblem\\BINpACKingProblem\\BINpACKingProblem\\BinPacking.cs",
+              "RelativeDocumentMoniker": "BINpACKingProblem\\BinPacking.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 4\\BinPackingProblem\\BINpACKingProblem\\BINpACKingProblem\\BinPacking.cs",
+              "RelativeToolTip": "BINpACKingProblem\\BinPacking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:36:43.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HillClimbing.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 4\\BinPackingProblem\\BINpACKingProblem\\BINpACKingProblem\\HillClimbing.cs",
+              "RelativeDocumentMoniker": "BINpACKingProblem\\HillClimbing.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ADS Coursework-33030385\\Problem 4\\BinPackingProblem\\BINpACKingProblem\\BINpACKingProblem\\HillClimbing.cs",
+              "RelativeToolTip": "BINpACKingProblem\\HillClimbing.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:35:09.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
